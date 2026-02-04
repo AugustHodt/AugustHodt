@@ -14,7 +14,7 @@ I spend a significant amount of my time on financial analysis and personal proje
 ---
 
 ### ⚠️ Disclaimer
-This GitHub profile and its repositories are for educational and hobby purposes only. 
-The content, including financial models and analysis, does not constitute financial advice, investment recommendations, or an offer to buy/sell any securities. 
-I am not responsible for any financial losses incurred from the use of these models. 
-Always perform your own due diligence.
+This GitHub profile and its repositories are for educational and hobby purposes only. The content, including financial models and analysis, does not constitute financial advice or investment recommendations.
+
+I make a lot of mistakes in these models ;)
+Do not rely on the data or calculations for any actual investment decisions. Always perform your own due diligence.
