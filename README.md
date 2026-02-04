@@ -2,7 +2,7 @@
 
 Master's student in Finance at BI Norwegian Business School with a strong interest in stocks and the capital markets. 
 
-I spend a significant amount of my time on financial analysis and personal projects, which you can explore in this profile. I'm always open to discussing interesting cases or exchanging experiences!
+I spend a significant amount of my freetime on financial analysis and personal projects, which you can explore in this profile. I'm always open to discussing interesting cases or exchanging experiences!
 
 E-mail: augusthodt@gmail.com
 
@@ -18,5 +18,5 @@ E-mail: augusthodt@gmail.com
 ### ⚠️ Disclaimer
 This GitHub profile and its repositories are for educational and hobby purposes only. The content, including financial models and analysis, does not constitute financial advice or investment recommendations.
 
-I make a lot of mistakes in these models ;)
-Do not rely on the data or calculations for any actual investment decisions. Always perform your own due diligence.
+I make a lot of mistakes in these models.
+Do NOT rely on the data or calculations for any actual investment decisions. Always perform your own due diligence.
