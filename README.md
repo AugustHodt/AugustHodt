@@ -1,8 +1,10 @@
 # Hi, I'm August! 👋
 
-Master's student in Finance at BI Norwegian Business School with a keen interest in stocks and the capital markets. 
+Master's student in Finance at BI Norwegian Business School with a strong interest in stocks and the capital markets. 
 
 I spend a significant amount of my time on financial analysis and personal projects, which you can explore in this profile. I'm always open to discussing interesting cases or exchanging experiences!
+
+E-mail: augusthodt@gmail.com
 
 ---
 
