@@ -18,5 +18,5 @@ E-mail: augusthodt@gmail.com
 ### ⚠️ Disclaimer
 This GitHub profile and its repositories are for educational and hobby purposes only. The content, including financial models and analysis, does NOT constitute financial advice or investment recommendations.
 
-I make a lot of mistakes in these models.
+Mistakes may occur in these models. 
 Do NOT rely on the data or calculations for any actual investment decisions. Always perform your own due diligence.
