@@ -9,7 +9,7 @@ E-mail: augusthodt@gmail.com
 ---
 
 ### 📂 Main Projects
-* **[Excel-modeller](https://github.com/AugustHodt/Excel-modeller):** Valuation models and DCF analyses.
+* **[Excel-modeller](https://github.com/AugustHodt/Excel-modeller):** Valuation models.
 * **[Python-prosjekter](https://github.com/AugustHodt/Python-prosjekter):** Financial data analysis and automation.
 * **[Maanedsrapporter](https://github.com/AugustHodt/Maanedsrapporter):** Monthly market summaries and reflections.
 
